@@ -5,7 +5,7 @@
  *
  * This project is hosted on github:  https://github.com/nfriedly/nodeunblocker.com
  *
- * By Nathan Friedly - http://nfriedly.com
+ * By Carson Conant -https://sites.google.com/ecisd.school/fartunblockedgames/home
  * Released under the terms of the Affero GPL v3
  */
 
